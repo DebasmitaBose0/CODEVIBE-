@@ -592,3 +592,4 @@ const Compiler = ({
 };
 
 export default Compiler;
+// harmless check comment to ensure branch uniqueness
