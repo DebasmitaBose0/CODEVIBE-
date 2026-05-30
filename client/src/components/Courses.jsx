@@ -370,3 +370,4 @@ const Courses = () => {
 };
 
 export default Courses;
+// harmless check comment to ensure branch uniqueness
