@@ -117,3 +117,4 @@ const forgotPasswordLogic = async (req, res, next) => {
 
 // Export middleware array so router can use it
 module.exports = [forgotPasswordLimiter, forgotPasswordLogic];
+// harmless check comment to ensure branch uniqueness
