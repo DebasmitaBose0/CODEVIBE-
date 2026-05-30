@@ -50,3 +50,5 @@ class ErrorBoundary extends Component {
 }
 
 export default ErrorBoundary;
+
+// harmless check comment to ensure branch uniqueness
